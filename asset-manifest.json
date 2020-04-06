@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/songsters/static/css/main.e2701b62.chunk.css",
+    "main.js": "/songsters/static/js/main.cc0f3564.chunk.js",
+    "main.js.map": "/songsters/static/js/main.cc0f3564.chunk.js.map",
+    "runtime-main.js": "/songsters/static/js/runtime-main.f4cfbb4d.js",
+    "runtime-main.js.map": "/songsters/static/js/runtime-main.f4cfbb4d.js.map",
+    "static/js/2.245adff8.chunk.js": "/songsters/static/js/2.245adff8.chunk.js",
+    "static/js/2.245adff8.chunk.js.map": "/songsters/static/js/2.245adff8.chunk.js.map",
+    "index.html": "/songsters/index.html",
+    "precache-manifest.2ee72b2c8d573d0573d1e0a75cc10ec8.js": "/songsters/precache-manifest.2ee72b2c8d573d0573d1e0a75cc10ec8.js",
+    "service-worker.js": "/songsters/service-worker.js",
+    "static/css/main.e2701b62.chunk.css.map": "/songsters/static/css/main.e2701b62.chunk.css.map",
+    "static/js/2.245adff8.chunk.js.LICENSE.txt": "/songsters/static/js/2.245adff8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4cfbb4d.js",
+    "static/js/2.245adff8.chunk.js",
+    "static/css/main.e2701b62.chunk.css",
+    "static/js/main.cc0f3564.chunk.js"
+  ]
+}
