@@ -16,8 +16,6 @@
 }
 
 h2 {
-  background-color: #333333;
-  color: #cccccc;
   padding: 15px;
 }
 
@@ -26,5 +24,9 @@ p {
 }
 
 .nazovimoOsoba {
-  margin-bottom: 30px;
+  padding-bottom: 30px;
+  &:nth-child(even) {
+    background-color: #666;
+    color: #fff;
+  }
 }
