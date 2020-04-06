@@ -1,5 +1,5 @@
 {
-  "homepage":"http://petarpanic.github.io/songsters",
+  "homepage": "https://petarpanic.github.io/songsters",
   "name": "songsters",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

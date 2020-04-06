@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
-import Select from 'react-select';
 
 function App() {
     const [error, setError] = useState(null);
